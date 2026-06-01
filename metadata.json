@@ -1,0 +1,6 @@
+{
+  "name": "New Krishna Traders - TVS Showroom Dharan",
+  "description": "Premium TVS motorcycle and scooter showroom landing page, catalog, service booker, and contact center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
